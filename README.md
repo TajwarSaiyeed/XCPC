@@ -35,4 +35,4 @@ This repository contains my solutions to various competitive programming problem
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](./LICENSE)
