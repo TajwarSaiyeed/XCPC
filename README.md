@@ -13,8 +13,10 @@ This repository contains my solutions to various competitive programming problem
 
 ## Codeforces
 
-| Problem | Solution |
-| ------- | -------- |
+| Problem              | Question                                                                                                 |
+| -------------------- | -------------------------------------------------------------------------------------------------------- |
+| B. Number of Smaller | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) |
+| C. Number of Equal   | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) |
 
 ## Codechef
 
@@ -23,15 +25,19 @@ This repository contains my solutions to various competitive programming problem
 
 ## VJudge
 
-| Problem      | Solution                                                                            |
-| ------------ | ----------------------------------------------------------------------------------- |
-| B - Counting | [Link to the solution](https://vjudge.net/contest/616202#status/tajwarsaiyeed/-/0/) |
+| Problem         | Solution                                                                            |
+| --------------- | ----------------------------------------------------------------------------------- |
+| B - Counting    | [Link to the solution](https://vjudge.net/contest/616202#status/tajwarsaiyeed/B/0/) |
+| C - Buttons     | [Link to the solution](https://vjudge.net/contest/616202#status/tajwarsaiyeed/C/0/) |
+| D - Four Digits | [Link to the solution](https://vjudge.net/contest/616202#status/tajwarsaiyeed/D/0/) |
 
 ## Atcoder
 
-| Problem      | Solution                                                                        |
-| ------------ | ------------------------------------------------------------------------------- |
-| A - Counting | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
+| Problem         | Solution                                                                        |
+| --------------- | ------------------------------------------------------------------------------- |
+| A - Counting    | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
+| A - Buttons     | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
+| A - Four Digits | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
 
 ## License
 
