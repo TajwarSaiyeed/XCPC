@@ -1,7 +1,8 @@
 /*
     Author: Tajwar Saiyeed
-    Date: 2024-03-15 11:48:25
+    Date: 2024-03-15 20:00:38
 */
+
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
@@ -55,3 +56,5 @@ int main()
     cout << ans << '\n';
     return 0;
 }
+
+// Problem: https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C
