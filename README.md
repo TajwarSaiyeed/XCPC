@@ -25,21 +25,23 @@ This repository contains my solutions to various competitive programming problem
 
 ## VJudge
 
-| Problem         | Solution                                                     |
-| --------------- | ------------------------------------------------------------ |
-| B - Counting    | [Link to the solution](https://vjudge.net/solution/49862697) |
-| C - Buttons     | [Link to the solution](https://vjudge.net/solution/49864748) |
-| D - Four Digits | [Link to the solution](https://vjudge.net/solution/49871311) |
-| G - Not Found   | [Link to the solution](https://vjudge.net/solution/49886953) |
+| Problem           | Solution                                                     |
+| ----------------- | ------------------------------------------------------------ |
+| B - Counting      | [Link to the solution](https://vjudge.net/solution/49862697) |
+| C - Buttons       | [Link to the solution](https://vjudge.net/solution/49864748) |
+| D - Four Digits   | [Link to the solution](https://vjudge.net/solution/49871311) |
+| G - Not Found     | [Link to the solution](https://vjudge.net/solution/49886953) |
+| E - Find Multiple | [Link to the solution](https://vjudge.net/solution/49903992) |
 
 ## Atcoder
 
-| Problem         | Solution                                                                        |
-| --------------- | ------------------------------------------------------------------------------- |
-| A - Counting    | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
-| A - Buttons     | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
-| A - Four Digits | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
-| B - Not Found   | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
+| Problem           | Solution                                                                        |
+| ----------------- | ------------------------------------------------------------------------------- |
+| A - Counting      | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
+| A - Buttons       | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
+| A - Four Digits   | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
+| B - Not Found     | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
+| A - Find Multiple | [Link to the solution](https://atcoder.jp/contests/abc220/submissions/51273864) |
 
 ## GeekForGeeks
 
