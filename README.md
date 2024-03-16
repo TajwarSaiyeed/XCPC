@@ -25,11 +25,12 @@ This repository contains my solutions to various competitive programming problem
 
 ## VJudge
 
-| Problem         | Solution                                                                            |
-| --------------- | ----------------------------------------------------------------------------------- |
-| B - Counting    | [Link to the solution](https://vjudge.net/contest/616202#status/tajwarsaiyeed/B/0/) |
-| C - Buttons     | [Link to the solution](https://vjudge.net/contest/616202#status/tajwarsaiyeed/C/0/) |
-| D - Four Digits | [Link to the solution](https://vjudge.net/contest/616202#status/tajwarsaiyeed/D/0/) |
+| Problem         | Solution                                                     |
+| --------------- | ------------------------------------------------------------ |
+| B - Counting    | [Link to the solution](https://vjudge.net/solution/49862697) |
+| C - Buttons     | [Link to the solution](https://vjudge.net/solution/49864748) |
+| D - Four Digits | [Link to the solution](https://vjudge.net/solution/49871311) |
+| G - Not Found   | [Link to the solution](https://vjudge.net/solution/49886953) |
 
 ## Atcoder
 
@@ -38,6 +39,13 @@ This repository contains my solutions to various competitive programming problem
 | A - Counting    | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
 | A - Buttons     | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
 | A - Four Digits | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
+| B - Not Found   | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
+
+## GeekForGeeks
+
+| Problem                    | Question                                                                                        |
+| -------------------------- | ----------------------------------------------------------------------------------------------- |
+| Max Sum Subarray of size K | [Link to the Question](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) |
 
 ## License
 
