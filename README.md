@@ -13,10 +13,13 @@ This repository contains my solutions to various competitive programming problem
 
 ## Codeforces
 
-| Problem              | Question                                                                                                 |
-| -------------------- | -------------------------------------------------------------------------------------------------------- |
-| B. Number of Smaller | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) |
-| C. Number of Equal   | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) |
+| Problem                       | Question                                                                                                 |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
+| A. Merging Arrays             | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A) |
+| B. Number of Smaller          | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) |
+| C. Number of Equal            | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) |
+| A. Forgotten Episode          | [Link to the question](https://codeforces.com/problemset/problem/440/A)                                  |
+| A. Wet Shark and Odd and Even | [Link to the question](https://codeforces.com/problemset/problem/621/A)                                  |
 
 ## Codechef
 
@@ -25,13 +28,15 @@ This repository contains my solutions to various competitive programming problem
 
 ## VJudge
 
-| Problem           | Solution                                                     |
-| ----------------- | ------------------------------------------------------------ |
-| B - Counting      | [Link to the solution](https://vjudge.net/solution/49862697) |
-| C - Buttons       | [Link to the solution](https://vjudge.net/solution/49864748) |
-| D - Four Digits   | [Link to the solution](https://vjudge.net/solution/49871311) |
-| G - Not Found     | [Link to the solution](https://vjudge.net/solution/49886953) |
-| E - Find Multiple | [Link to the solution](https://vjudge.net/solution/49903992) |
+| Problem                        | Solution                                                     |
+| ------------------------------ | ------------------------------------------------------------ |
+| B - Counting                   | [Link to the solution](https://vjudge.net/solution/49862697) |
+| C - Buttons                    | [Link to the solution](https://vjudge.net/solution/49864748) |
+| D - Four Digits                | [Link to the solution](https://vjudge.net/solution/49871311) |
+| G - Not Found                  | [Link to the solution](https://vjudge.net/solution/49886953) |
+| E - Find Multiple              | [Link to the solution](https://vjudge.net/solution/49903992) |
+| M - Wet Shark and Odd and Even | [Link to the solution](https://vjudge.net/solution/49935974) |
+| N - Forgotten Episode          | [Link to the solution](https://vjudge.net/solution/49935943) |
 
 ## Atcoder
 
