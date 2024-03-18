@@ -28,3 +28,7 @@ int main()
     cout << cnt;
     return 0;
 }
+
+// Problem : https://atcoder.jp/contests/abc214/tasks/abc214_b
+// Submission : https://vjudge.net/solution/49967693
+// Atcoder : https://atcoder.jp/contests/abc214/submissions/51428191

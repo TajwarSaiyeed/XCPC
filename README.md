@@ -37,6 +37,7 @@ This repository contains my solutions to various competitive programming problem
 | E - Find Multiple              | [Link to the solution](https://vjudge.net/solution/49903992) |
 | M - Wet Shark and Odd and Even | [Link to the solution](https://vjudge.net/solution/49935974) |
 | N - Forgotten Episode          | [Link to the solution](https://vjudge.net/solution/49935943) |
+| H - How many?                  | [Link to the solution](https://vjudge.net/solution/49967693) |
 
 ## Atcoder
 
@@ -47,6 +48,7 @@ This repository contains my solutions to various competitive programming problem
 | A - Four Digits   | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
 | B - Not Found     | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
 | A - Find Multiple | [Link to the solution](https://atcoder.jp/contests/abc220/submissions/51273864) |
+| B - How many?     | [Link to the solution](https://atcoder.jp/contests/abc214/submissions/51428191) |
 
 ## GeekForGeeks
 
