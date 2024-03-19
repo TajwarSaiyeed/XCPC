@@ -38,23 +38,26 @@ This repository contains my solutions to various competitive programming problem
 | M - Wet Shark and Odd and Even | [Link to the solution](https://vjudge.net/solution/49935974) |
 | N - Forgotten Episode          | [Link to the solution](https://vjudge.net/solution/49935943) |
 | H - How many?                  | [Link to the solution](https://vjudge.net/solution/49967693) |
+| F - Biscuit Generator          | [Link to the solution](https://vjudge.net/solution/49993741) |
 
 ## Atcoder
 
-| Problem           | Solution                                                                        |
-| ----------------- | ------------------------------------------------------------------------------- |
-| A - Counting      | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
-| A - Buttons       | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
-| A - Four Digits   | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
-| B - Not Found     | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
-| A - Find Multiple | [Link to the solution](https://atcoder.jp/contests/abc220/submissions/51273864) |
-| B - How many?     | [Link to the solution](https://atcoder.jp/contests/abc214/submissions/51428191) |
+| Problem               | Solution                                                                        |
+| --------------------- | ------------------------------------------------------------------------------- |
+| A - Counting          | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
+| A - Buttons           | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
+| A - Four Digits       | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
+| B - Not Found         | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
+| A - Find Multiple     | [Link to the solution](https://atcoder.jp/contests/abc220/submissions/51273864) |
+| B - How many?         | [Link to the solution](https://atcoder.jp/contests/abc214/submissions/51428191) |
+| A - Biscuit Generator | [Link to the solution](https://atcoder.jp/contests/abc125/submissions/51450217) |
 
 ## GeekForGeeks
 
-| Problem                    | Question                                                                                        |
-| -------------------------- | ----------------------------------------------------------------------------------------------- |
-| Max Sum Subarray of size K | [Link to the Question](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) |
+| Problem                      | Question                                                                                                                                                                                                    |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Max Sum Subarray of size K   | [Link to the Question](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)                                                                                                             |
+| Count Occurences of Anagrams | [Link to the Solution](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1?_gl=1*2hl6h9*_ga*MTYxMTcwOTY2OC4xNjYwMzk1MzY0*_ga_DWCCJLKX3X*MTY5Njc3NDQzNi4xLjEuMTY5Njc3NDUwNy4wLjAuMA..) |
 
 ## License
 
