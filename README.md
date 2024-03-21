@@ -20,6 +20,10 @@ This repository contains my solutions to various competitive programming problem
 | C. Number of Equal            | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) |
 | A. Forgotten Episode          | [Link to the question](https://codeforces.com/problemset/problem/440/A)                                  |
 | A. Wet Shark and Odd and Even | [Link to the question](https://codeforces.com/problemset/problem/621/A)                                  |
+| A. Era                        | [Link to the question](https://codeforces.com/problemset/problem/1604/A)                                 |
+| A. Ebony and Ivory            | [Link to the question](https://codeforces.com/problemset/problem/633/A)                                  |
+| C. Traffic Light              | [Link to the question](https://codeforces.com/problemset/problem/1744/C)                                 |
+| C. Word Game                  | [Link to the question](https://codeforces.com/problemset/problem/1722/C)                                 |
 
 ## Codechef
 
@@ -39,6 +43,11 @@ This repository contains my solutions to various competitive programming problem
 | N - Forgotten Episode          | [Link to the solution](https://vjudge.net/solution/49935943) |
 | H - How many?                  | [Link to the solution](https://vjudge.net/solution/49967693) |
 | F - Biscuit Generator          | [Link to the solution](https://vjudge.net/solution/49993741) |
+| I - Multiple Gift              | [Link to the solution](https://vjudge.net/solution/50049067) |
+| O - Traffic Light              | [Link to the solution](https://vjudge.net/solution/50041167) |
+| L - Era                        | [Link to the solution](https://vjudge.net/solution/50031377) |
+| K - Word Game                  | [Link to the solution](https://vjudge.net/solution/50030182) |
+| J - Ebony and Ivory            | [Link to the solution](https://vjudge.net/solution/50031751) |
 
 ## Atcoder
 
@@ -51,6 +60,7 @@ This repository contains my solutions to various competitive programming problem
 | A - Find Multiple     | [Link to the solution](https://atcoder.jp/contests/abc220/submissions/51273864) |
 | B - How many?         | [Link to the solution](https://atcoder.jp/contests/abc214/submissions/51428191) |
 | A - Biscuit Generator | [Link to the solution](https://atcoder.jp/contests/abc125/submissions/51450217) |
+| C - Multiple Gift     | [Link to the solution](https://atcoder.jp/contests/abc083/submissions/51498352) |
 
 ## GeekForGeeks
 
