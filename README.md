@@ -13,17 +13,20 @@ This repository contains my solutions to various competitive programming problem
 
 ## Codeforces
 
-| Problem                       | Question                                                                                                 |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
-| A. Merging Arrays             | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A) |
-| B. Number of Smaller          | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) |
-| C. Number of Equal            | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) |
-| A. Forgotten Episode          | [Link to the question](https://codeforces.com/problemset/problem/440/A)                                  |
-| A. Wet Shark and Odd and Even | [Link to the question](https://codeforces.com/problemset/problem/621/A)                                  |
-| A. Era                        | [Link to the question](https://codeforces.com/problemset/problem/1604/A)                                 |
-| A. Ebony and Ivory            | [Link to the question](https://codeforces.com/problemset/problem/633/A)                                  |
-| C. Traffic Light              | [Link to the question](https://codeforces.com/problemset/problem/1744/C)                                 |
-| C. Word Game                  | [Link to the question](https://codeforces.com/problemset/problem/1722/C)                                 |
+| Problem                              | Question                                                                                                 |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| A. Merging Arrays                    | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A) |
+| B. Number of Smaller                 | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) |
+| C. Number of Equal                   | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) |
+| A. Forgotten Episode                 | [Link to the question](https://codeforces.com/problemset/problem/440/A)                                  |
+| A. Wet Shark and Odd and Even        | [Link to the question](https://codeforces.com/problemset/problem/621/A)                                  |
+| A. Era                               | [Link to the question](https://codeforces.com/problemset/problem/1604/A)                                 |
+| A. Ebony and Ivory                   | [Link to the question](https://codeforces.com/problemset/problem/633/A)                                  |
+| C. Traffic Light                     | [Link to the question](https://codeforces.com/problemset/problem/1744/C)                                 |
+| C. Word Game                         | [Link to the question](https://codeforces.com/problemset/problem/1722/C)                                 |
+| A. Segment with Small Sum            | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A) |
+| C. Number of Segments with Small Sum | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C) |
+| F. Segments with Small Spread        | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F) |
 
 ## Codechef
 
