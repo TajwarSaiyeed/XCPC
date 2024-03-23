@@ -51,6 +51,7 @@ This repository contains my solutions to various competitive programming problem
 | L - Era                        | [Link to the solution](https://vjudge.net/solution/50031377) |
 | K - Word Game                  | [Link to the solution](https://vjudge.net/solution/50030182) |
 | J - Ebony and Ivory            | [Link to the solution](https://vjudge.net/solution/50031751) |
+| C - Remove It                  | [Link to the solution](https://vjudge.net/solution/50127789) |
 
 ## Atcoder
 
@@ -64,6 +65,7 @@ This repository contains my solutions to various competitive programming problem
 | B - How many?         | [Link to the solution](https://atcoder.jp/contests/abc214/submissions/51428191) |
 | A - Biscuit Generator | [Link to the solution](https://atcoder.jp/contests/abc125/submissions/51450217) |
 | C - Multiple Gift     | [Link to the solution](https://atcoder.jp/contests/abc083/submissions/51498352) |
+| B - Remove It         | [Link to the solution](https://atcoder.jp/contests/abc191/submissions/51603504) |
 
 ## GeekForGeeks
 
