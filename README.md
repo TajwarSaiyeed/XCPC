@@ -27,6 +27,8 @@ This repository contains my solutions to various competitive programming problem
 | A. Segment with Small Sum            | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A) |
 | C. Number of Segments with Small Sum | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C) |
 | F. Segments with Small Spread        | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F) |
+| C. Most Similar Words                | [Link to the question](https://codeforces.com/contest/1676/problem/C)                                    |
+| A. Spell Check                       | [Link to the question](https://codeforces.com/contest/1722/problem/A)                                    |
 
 ## Codechef
 
@@ -52,6 +54,7 @@ This repository contains my solutions to various competitive programming problem
 | K - Word Game                  | [Link to the solution](https://vjudge.net/solution/50030182) |
 | J - Ebony and Ivory            | [Link to the solution](https://vjudge.net/solution/50031751) |
 | C - Remove It                  | [Link to the solution](https://vjudge.net/solution/50127789) |
+| D - Minor Change               | [Link to the solution](https://vjudge.net/solution/50151999) |
 
 ## Atcoder
 
@@ -66,6 +69,7 @@ This repository contains my solutions to various competitive programming problem
 | A - Biscuit Generator | [Link to the solution](https://atcoder.jp/contests/abc125/submissions/51450217) |
 | C - Multiple Gift     | [Link to the solution](https://atcoder.jp/contests/abc083/submissions/51498352) |
 | B - Remove It         | [Link to the solution](https://atcoder.jp/contests/abc191/submissions/51603504) |
+| B - Minor Change      | [Link to the solution](https://atcoder.jp/contests/abc172/submissions/51640776) |
 
 ## GeekForGeeks
 
