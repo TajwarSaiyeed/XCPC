@@ -29,6 +29,9 @@ This repository contains my solutions to various competitive programming problem
 | F. Segments with Small Spread        | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F) |
 | C. Most Similar Words                | [Link to the question](https://codeforces.com/contest/1676/problem/C)                                    |
 | A. Spell Check                       | [Link to the question](https://codeforces.com/contest/1722/problem/A)                                    |
+| A. Plus or Minus                     | [Link to the question](https://codeforces.com/problemset/problem/1807/A)                                 |
+| C. Move Brackets                     | [Link to the question](https://codeforces.com/problemset/problem/1374/C)                                 |
+| B. Colourblindness                   | [Link to the question](https://codeforces.com/problemset/problem/1722/B)                                 |
 
 ## Codechef
 
@@ -55,6 +58,9 @@ This repository contains my solutions to various competitive programming problem
 | J - Ebony and Ivory            | [Link to the solution](https://vjudge.net/solution/50031751) |
 | C - Remove It                  | [Link to the solution](https://vjudge.net/solution/50127789) |
 | D - Minor Change               | [Link to the solution](https://vjudge.net/solution/50151999) |
+| E - Plus or Minus              | [Link to the solution](https://vjudge.net/solution/50178389) |
+| C - Move Brackets              | [Link to the solution](https://vjudge.net/solution/50179149) |
+| J - Colourblindness            | [Link to the solution](https://vjudge.net/solution/50178773) |
 
 ## Atcoder
 
