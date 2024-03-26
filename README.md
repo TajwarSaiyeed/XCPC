@@ -32,6 +32,7 @@ This repository contains my solutions to various competitive programming problem
 | A. Plus or Minus                     | [Link to the question](https://codeforces.com/problemset/problem/1807/A)                                 |
 | C. Move Brackets                     | [Link to the question](https://codeforces.com/problemset/problem/1374/C)                                 |
 | B. Colourblindness                   | [Link to the question](https://codeforces.com/problemset/problem/1722/B)                                 |
+| B. Chemistry                         | [Link to the question](https://codeforces.com/problemset/problem/1883/B)                                 |
 
 ## Codechef
 
@@ -61,6 +62,7 @@ This repository contains my solutions to various competitive programming problem
 | E - Plus or Minus              | [Link to the solution](https://vjudge.net/solution/50178389) |
 | C - Move Brackets              | [Link to the solution](https://vjudge.net/solution/50179149) |
 | J - Colourblindness            | [Link to the solution](https://vjudge.net/solution/50178773) |
+| N - Chemistry                  | [Link to the solution](https://vjudge.net/solution/50196150) |
 
 ## Atcoder
 
