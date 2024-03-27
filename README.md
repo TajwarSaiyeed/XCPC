@@ -63,21 +63,23 @@ This repository contains my solutions to various competitive programming problem
 | C - Move Brackets              | [Link to the solution](https://vjudge.net/solution/50179149) |
 | J - Colourblindness            | [Link to the solution](https://vjudge.net/solution/50178773) |
 | N - Chemistry                  | [Link to the solution](https://vjudge.net/solution/50196150) |
+| B - Sum of Three Integers      | [Link to the solution](https://vjudge.net/solution/50202972) |
 
 ## Atcoder
 
-| Problem               | Solution                                                                        |
-| --------------------- | ------------------------------------------------------------------------------- |
-| A - Counting          | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
-| A - Buttons           | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
-| A - Four Digits       | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
-| B - Not Found         | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
-| A - Find Multiple     | [Link to the solution](https://atcoder.jp/contests/abc220/submissions/51273864) |
-| B - How many?         | [Link to the solution](https://atcoder.jp/contests/abc214/submissions/51428191) |
-| A - Biscuit Generator | [Link to the solution](https://atcoder.jp/contests/abc125/submissions/51450217) |
-| C - Multiple Gift     | [Link to the solution](https://atcoder.jp/contests/abc083/submissions/51498352) |
-| B - Remove It         | [Link to the solution](https://atcoder.jp/contests/abc191/submissions/51603504) |
-| B - Minor Change      | [Link to the solution](https://atcoder.jp/contests/abc172/submissions/51640776) |
+| Problem                   | Solution                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| A - Counting              | [Link to the solution](https://atcoder.jp/contests/abc209/submissions/51240912) |
+| A - Buttons               | [Link to the solution](https://atcoder.jp/contests/abc124/submissions/51242274) |
+| A - Four Digits           | [Link to the solution](https://atcoder.jp/contests/abc222/submissions/51246731) |
+| B - Not Found             | [Link to the solution](https://atcoder.jp/contests/abc071/submissions/51260924) |
+| A - Find Multiple         | [Link to the solution](https://atcoder.jp/contests/abc220/submissions/51273864) |
+| B - How many?             | [Link to the solution](https://atcoder.jp/contests/abc214/submissions/51428191) |
+| A - Biscuit Generator     | [Link to the solution](https://atcoder.jp/contests/abc125/submissions/51450217) |
+| C - Multiple Gift         | [Link to the solution](https://atcoder.jp/contests/abc083/submissions/51498352) |
+| B - Remove It             | [Link to the solution](https://atcoder.jp/contests/abc191/submissions/51603504) |
+| B - Minor Change          | [Link to the solution](https://atcoder.jp/contests/abc172/submissions/51640776) |
+| B - Sum of Three Integers | [Link to the solution](https://atcoder.jp/contests/abc051/submissions/51716762) |
 
 ## GeekForGeeks
 
