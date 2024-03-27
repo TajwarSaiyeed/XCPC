@@ -19,7 +19,7 @@ This repository contains my solutions to various competitive programming problem
 | B. Number of Smaller                 | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) |
 | C. Number of Equal                   | [Link to the question](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) |
 | A. Forgotten Episode                 | [Link to the question](https://codeforces.com/problemset/problem/440/A)                                  |
-| A. Wet Shark and Odd and Even        | [Link to the question](https://codeforces.com/problemset/problem/621/A)                                  |
+| A. Wet Shark and Odd and Even        | [Link to the que stion](https://codeforces.com/problemset/problem/621/A)                                 |
 | A. Era                               | [Link to the question](https://codeforces.com/problemset/problem/1604/A)                                 |
 | A. Ebony and Ivory                   | [Link to the question](https://codeforces.com/problemset/problem/633/A)                                  |
 | C. Traffic Light                     | [Link to the question](https://codeforces.com/problemset/problem/1744/C)                                 |
@@ -33,6 +33,7 @@ This repository contains my solutions to various competitive programming problem
 | C. Move Brackets                     | [Link to the question](https://codeforces.com/problemset/problem/1374/C)                                 |
 | B. Colourblindness                   | [Link to the question](https://codeforces.com/problemset/problem/1722/B)                                 |
 | B. Chemistry                         | [Link to the question](https://codeforces.com/problemset/problem/1883/B)                                 |
+| B. All Distinct                      | [Link to the question](https://codeforces.com/problemset/problem/1692/B)                                 |
 
 ## Codechef
 
@@ -64,6 +65,7 @@ This repository contains my solutions to various competitive programming problem
 | J - Colourblindness            | [Link to the solution](https://vjudge.net/solution/50178773) |
 | N - Chemistry                  | [Link to the solution](https://vjudge.net/solution/50196150) |
 | B - Sum of Three Integers      | [Link to the solution](https://vjudge.net/solution/50202972) |
+| I - All Distinct               | [Link to the solution](https://vjudge.net/solution/50215271) |
 
 ## Atcoder
 
