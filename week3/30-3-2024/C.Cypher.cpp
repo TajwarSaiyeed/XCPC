@@ -56,3 +56,6 @@ int main()
     }
     return 0;
 }
+
+// Problem : https://codeforces.com/problemset/problem/1703/C
+// Submission : https://vjudge.net/solution/50291151
