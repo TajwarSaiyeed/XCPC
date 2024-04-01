@@ -34,6 +34,10 @@ This repository contains my solutions to various competitive programming problem
 | B. Colourblindness                   | [Link to the question](https://codeforces.com/problemset/problem/1722/B)                                 |
 | B. Chemistry                         | [Link to the question](https://codeforces.com/problemset/problem/1883/B)                                 |
 | B. All Distinct                      | [Link to the question](https://codeforces.com/problemset/problem/1692/B)                                 |
+| B. Kalindrome Array                  | [Link to the question](https://codeforces.com/problemset/problem/1610/B)                                 |
+| B. Array Cloning Technique           | [Link to the question](https://codeforces.com/problemset/problem/1665/B)                                 |
+| C. Cypher                            | [Link to the question](https://codeforces.com/problemset/problem/1703/C)                                 |
+| A. Is It a Cat?                      | [Link to the question](https://codeforces.com/problemset/problem/1800/A)                                 |
 
 ## Codechef
 
@@ -66,6 +70,10 @@ This repository contains my solutions to various competitive programming problem
 | N - Chemistry                  | [Link to the solution](https://vjudge.net/solution/50196150) |
 | B - Sum of Three Integers      | [Link to the solution](https://vjudge.net/solution/50202972) |
 | I - All Distinct               | [Link to the solution](https://vjudge.net/solution/50215271) |
+| M - Kalindrome Array           | [Link to the solution](https://vjudge.net/solution/50326564) |
+| L - Array Cloning Technique    | [Link to the solution](https://vjudge.net/solution/50319925) |
+| F - Cypher                     | [Link to the solution](https://vjudge.net/solution/50291151) |
+| A - Is It a Cat?               | [Link to the solution](https://vjudge.net/solution/50320672) |
 
 ## Atcoder
 
