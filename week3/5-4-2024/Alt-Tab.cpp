@@ -40,3 +40,7 @@ int main()
 
     return 0;
 }
+
+// Problem : https://www.codechef.com/problems/ALTTAB
+
+// Submission : https://vjudge.net/solution/50467527
