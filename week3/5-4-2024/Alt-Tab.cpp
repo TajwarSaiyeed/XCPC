@@ -16,6 +16,27 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
+    vector<string> v;
+    map<string, int> mp;
+
+    int x;
+    cin >> x;
+    for (int i = 0; i < x; i++)
+    {
+        string s;
+        cin >> s;
+        v.push_back(s);
+        mp[s]++;
+    }
+
+    for (int i = v.size() - 1; i >= 0; i--)
+    {
+        if (mp[v[i]] >= 1)
+        {
+            cout << v[i].substr(v[i].size() - 2, v[i].size() - 1);
+            mp[v[i]] = 0;
+        }
+    }
 
     return 0;
 }
