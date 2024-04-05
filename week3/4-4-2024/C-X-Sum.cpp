@@ -1,6 +1,6 @@
 /*
     Author: Tajwar Saiyeed
-    Date: 2024-04-04 21:48:14
+    Date: 2024-04-04 08:50:07
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -8,27 +8,10 @@ using namespace std;
 #define no cout << "NO" << '\n'
 #define nl cout << '\n'
 #define vll vector<ll>
+#define vllvll vector<vll>
 #define vi vector<int>
 #define fr(i, n) for (int i = 0; i < n; i++)
 typedef long long ll;
-
-int x, y;
-
-ll max_sum(ll i, ll j, vector<vector<ll>> &arr)
-{
-    ll sum = 0;
-    for (ll k = 0; k < x; k++)
-    {
-        for (ll l = 0; l < y; l++)
-        {
-            if (abs(k - i) == abs(l - j))
-            {
-                sum += arr[k][l];
-            }
-        }
-    }
-    return sum;
-}
 
 int main()
 {
@@ -39,30 +22,39 @@ int main()
     cin >> tc;
     while (tc--)
     {
-        cin >> x >> y;
-        vector<vector<ll>> arr(x, vector<ll>(y));
-        fr(i, x)
+        ll n, m;
+        cin >> n >> m;
+        ll max_sum = 0;
+        vllvll a(n, vll(m, 0));
+        fr(i, n) fr(j, m) cin >> a[i][j];
+        fr(i, n)
         {
-            fr(j, y)
+            fr(j, m)
             {
-                cin >> arr[i][j];
+                ll temp_sum = 0;
+                temp_sum += a[i][j];
+
+                for (ll x = i - 1, y = j - 1; x >= 0 and y >= 0; --x, --y)
+                    temp_sum += a[x][y];
+
+                for (ll x = i - 1, y = j + 1; x >= 0 and y < m; --x, ++y)
+                    temp_sum += a[x][y];
+
+                for (ll x = i + 1, y = j - 1; x < n and y >= 0; ++x, --y)
+                    temp_sum += a[x][y];
+
+                for (ll x = i + 1, y = j + 1; x < n and y < m; ++x, ++y)
+                    temp_sum += a[x][y];
+
+                max_sum = max(max_sum, temp_sum);
             }
         }
 
-        ll max_s = 0;
-        fr(i, x)
-        {
-            fr(j, y)
-            {
-                max_s = max(max_s, max_sum(i, j, arr));
-            }
-        }
-
-        cout << max_s;
-        nl;
+        cout << max_sum << '\n';
     }
 
     return 0;
 }
 
 // Problem : https://codeforces.com/contest/1676/problem/D
+// Submission : https://vjudge.net/solution/50446192
