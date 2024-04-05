@@ -38,6 +38,8 @@ This repository contains my solutions to various competitive programming problem
 | B. Array Cloning Technique           | [Link to the question](https://codeforces.com/problemset/problem/1665/B)                                 |
 | C. Cypher                            | [Link to the question](https://codeforces.com/problemset/problem/1703/C)                                 |
 | A. Is It a Cat?                      | [Link to the question](https://codeforces.com/problemset/problem/1800/A)                                 |
+| C - X-Sum                            | [Link to the question](https://codeforces.com/contest/1676/problem/D)                                    |
+| R - Remove Prefix                    | [Link to the question](https://codeforces.com/problemset/problem/1714/B)                                 |
 
 ## Codechef
 
@@ -74,6 +76,8 @@ This repository contains my solutions to various competitive programming problem
 | L - Array Cloning Technique    | [Link to the solution](https://vjudge.net/solution/50319925) |
 | F - Cypher                     | [Link to the solution](https://vjudge.net/solution/50291151) |
 | A - Is It a Cat?               | [Link to the solution](https://vjudge.net/solution/50320672) |
+| C - X-Sum                      | [Link to the solution](https://vjudge.net/solution/50446192) |
+| R - Remove Prefix              | [Link to the solution](https://vjudge.net/solution/50447585) |
 
 ## Atcoder
 
