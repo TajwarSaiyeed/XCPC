@@ -40,11 +40,14 @@ This repository contains my solutions to various competitive programming problem
 | A. Is It a Cat?                      | [Link to the question](https://codeforces.com/problemset/problem/1800/A)                                 |
 | C - X-Sum                            | [Link to the question](https://codeforces.com/contest/1676/problem/D)                                    |
 | R - Remove Prefix                    | [Link to the question](https://codeforces.com/problemset/problem/1714/B)                                 |
+| D. Line                              | [Link to the question](https://codeforces.com/problemset/problem/1722/D)                                 |
+| B. Long Long                         | [Link to the question](https://codeforces.com/problemset/problem/1843/B)                                 |
 
 ## Codechef
 
-| Problem | Solution |
-| ------- | -------- |
+| Problem | Solution                                                         |
+| ------- | ---------------------------------------------------------------- |
+| Alt-Tab | [Link to the question](https://www.codechef.com/problems/ALTTAB) |
 
 ## VJudge
 
@@ -78,6 +81,9 @@ This repository contains my solutions to various competitive programming problem
 | A - Is It a Cat?               | [Link to the solution](https://vjudge.net/solution/50320672) |
 | C - X-Sum                      | [Link to the solution](https://vjudge.net/solution/50446192) |
 | R - Remove Prefix              | [Link to the solution](https://vjudge.net/solution/50447585) |
+| T - Alt-Tab                    | [Link to the solution](https://vjudge.net/solution/50467527) |
+| F - Line                       | [Link to the solution](https://vjudge.net/solution/50496989) |
+| N - Long Long                  | [Link to the solution](https://vjudge.net/solution/50506196) |
 
 ## Atcoder
 
