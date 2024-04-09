@@ -45,6 +45,8 @@ This repository contains my solutions to various competitive programming problem
 | C. Train and Queries                 | [Link to the question](https://codeforces.com/problemset/problem/1702/C)                                 |
 | D. Double Strings                    | [Link to the question](https://codeforces.com/problemset/problem/1703/D)                                 |
 | C. Sum in Binary Tree                | [Link to the question](https://codeforces.com/problemset/problem/1843/C)                                 |
+| A. Mainak and Array                  | [Link to the question](https://codeforces.com/problemset/problem/1726/A)                                 |
+| D. Three Activities                  | [Link to the question](https://codeforces.com/problemset/problem/1914/D)                                 |
 
 ## Codechef
 
@@ -90,6 +92,8 @@ This repository contains my solutions to various competitive programming problem
 | L - Train and Queries          | [Link to the solution](https://vjudge.net/solution/50539311) |
 | D - Double Strings             | [Link to the solution](https://vjudge.net/solution/50521847) |
 | O - Sum in Binary Tree         | [Link to the solution](https://vjudge.net/solution/50519200) |
+| Q - Mainak and Array           | [Link to the solution](https://vjudge.net/solution/50541236) |
+| K - Three Activities           | [Link to the solution](https://vjudge.net/solution/50561209) |
 
 ## Atcoder
 
