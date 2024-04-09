@@ -1,6 +1,7 @@
 /*
     Author: Tajwar Saiyeed
     Date: 2024-04-07 22:57:24
+    File: O - Sum in Binary Tree.cpp
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -19,5 +20,25 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        ll n;
+        cin >> n;
+        ll sum = n;
+        while (n > 0)
+        {
+            sum += n / 2;
+            n /= 2;
+        }
+
+        cout << sum;
+        nl;
+    }
+
     return 0;
 }
+
+// Problem : https://codeforces.com/problemset/problem/1843/C
+// Submission : https://vjudge.net/solution/50519200

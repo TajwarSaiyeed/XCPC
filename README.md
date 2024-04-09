@@ -42,6 +42,9 @@ This repository contains my solutions to various competitive programming problem
 | R - Remove Prefix                    | [Link to the question](https://codeforces.com/problemset/problem/1714/B)                                 |
 | D. Line                              | [Link to the question](https://codeforces.com/problemset/problem/1722/D)                                 |
 | B. Long Long                         | [Link to the question](https://codeforces.com/problemset/problem/1843/B)                                 |
+| C. Train and Queries                 | [Link to the question](https://codeforces.com/problemset/problem/1702/C)                                 |
+| D. Double Strings                    | [Link to the question](https://codeforces.com/problemset/problem/1703/D)                                 |
+| C. Sum in Binary Tree                | [Link to the question](https://codeforces.com/problemset/problem/1843/C)                                 |
 
 ## Codechef
 
@@ -84,6 +87,9 @@ This repository contains my solutions to various competitive programming problem
 | T - Alt-Tab                    | [Link to the solution](https://vjudge.net/solution/50467527) |
 | F - Line                       | [Link to the solution](https://vjudge.net/solution/50496989) |
 | N - Long Long                  | [Link to the solution](https://vjudge.net/solution/50506196) |
+| L - Train and Queries          | [Link to the solution](https://vjudge.net/solution/50539311) |
+| D - Double Strings             | [Link to the solution](https://vjudge.net/solution/50521847) |
+| O - Sum in Binary Tree         | [Link to the solution](https://vjudge.net/solution/50519200) |
 
 ## Atcoder
 
