@@ -47,6 +47,7 @@ This repository contains my solutions to various competitive programming problem
 | C. Sum in Binary Tree                | [Link to the question](https://codeforces.com/problemset/problem/1843/C)                                 |
 | A. Mainak and Array                  | [Link to the question](https://codeforces.com/problemset/problem/1726/A)                                 |
 | D. Three Activities                  | [Link to the question](https://codeforces.com/problemset/problem/1914/D)                                 |
+| A. Compare T-Shirt Sizes             | [Link to the question](https://codeforces.com/contest/1741/problem/A)                                    |
 
 ## Codechef
 
@@ -94,6 +95,7 @@ This repository contains my solutions to various competitive programming problem
 | O - Sum in Binary Tree         | [Link to the solution](https://vjudge.net/solution/50519200) |
 | Q - Mainak and Array           | [Link to the solution](https://vjudge.net/solution/50541236) |
 | K - Three Activities           | [Link to the solution](https://vjudge.net/solution/50561209) |
+| M - Compare T-Shirt Sizes      | [Link to the solution](https://vjudge.net/solution/50561683) |
 
 ## Atcoder
 
