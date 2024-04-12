@@ -48,6 +48,8 @@ This repository contains my solutions to various competitive programming problem
 | A. Mainak and Array                  | [Link to the question](https://codeforces.com/problemset/problem/1726/A)                                 |
 | D. Three Activities                  | [Link to the question](https://codeforces.com/problemset/problem/1914/D)                                 |
 | A. Compare T-Shirt Sizes             | [Link to the question](https://codeforces.com/contest/1741/problem/A)                                    |
+| C1. Powering the Hero (easy version) | [Link to the question](https://codeforces.com/problemset/problem/1800/C1)                                |
+| C2. Powering the Hero (hard version) | [Link to the question](https://codeforces.com/problemset/problem/1800/C2)                                |
 
 ## Codechef
 
@@ -57,45 +59,47 @@ This repository contains my solutions to various competitive programming problem
 
 ## VJudge
 
-| Problem                        | Solution                                                     |
-| ------------------------------ | ------------------------------------------------------------ |
-| B - Counting                   | [Link to the solution](https://vjudge.net/solution/49862697) |
-| C - Buttons                    | [Link to the solution](https://vjudge.net/solution/49864748) |
-| D - Four Digits                | [Link to the solution](https://vjudge.net/solution/49871311) |
-| G - Not Found                  | [Link to the solution](https://vjudge.net/solution/49886953) |
-| E - Find Multiple              | [Link to the solution](https://vjudge.net/solution/49903992) |
-| M - Wet Shark and Odd and Even | [Link to the solution](https://vjudge.net/solution/49935974) |
-| N - Forgotten Episode          | [Link to the solution](https://vjudge.net/solution/49935943) |
-| H - How many?                  | [Link to the solution](https://vjudge.net/solution/49967693) |
-| F - Biscuit Generator          | [Link to the solution](https://vjudge.net/solution/49993741) |
-| I - Multiple Gift              | [Link to the solution](https://vjudge.net/solution/50049067) |
-| O - Traffic Light              | [Link to the solution](https://vjudge.net/solution/50041167) |
-| L - Era                        | [Link to the solution](https://vjudge.net/solution/50031377) |
-| K - Word Game                  | [Link to the solution](https://vjudge.net/solution/50030182) |
-| J - Ebony and Ivory            | [Link to the solution](https://vjudge.net/solution/50031751) |
-| C - Remove It                  | [Link to the solution](https://vjudge.net/solution/50127789) |
-| D - Minor Change               | [Link to the solution](https://vjudge.net/solution/50151999) |
-| E - Plus or Minus              | [Link to the solution](https://vjudge.net/solution/50178389) |
-| C - Move Brackets              | [Link to the solution](https://vjudge.net/solution/50179149) |
-| J - Colourblindness            | [Link to the solution](https://vjudge.net/solution/50178773) |
-| N - Chemistry                  | [Link to the solution](https://vjudge.net/solution/50196150) |
-| B - Sum of Three Integers      | [Link to the solution](https://vjudge.net/solution/50202972) |
-| I - All Distinct               | [Link to the solution](https://vjudge.net/solution/50215271) |
-| M - Kalindrome Array           | [Link to the solution](https://vjudge.net/solution/50326564) |
-| L - Array Cloning Technique    | [Link to the solution](https://vjudge.net/solution/50319925) |
-| F - Cypher                     | [Link to the solution](https://vjudge.net/solution/50291151) |
-| A - Is It a Cat?               | [Link to the solution](https://vjudge.net/solution/50320672) |
-| C - X-Sum                      | [Link to the solution](https://vjudge.net/solution/50446192) |
-| R - Remove Prefix              | [Link to the solution](https://vjudge.net/solution/50447585) |
-| T - Alt-Tab                    | [Link to the solution](https://vjudge.net/solution/50467527) |
-| F - Line                       | [Link to the solution](https://vjudge.net/solution/50496989) |
-| N - Long Long                  | [Link to the solution](https://vjudge.net/solution/50506196) |
-| L - Train and Queries          | [Link to the solution](https://vjudge.net/solution/50539311) |
-| D - Double Strings             | [Link to the solution](https://vjudge.net/solution/50521847) |
-| O - Sum in Binary Tree         | [Link to the solution](https://vjudge.net/solution/50519200) |
-| Q - Mainak and Array           | [Link to the solution](https://vjudge.net/solution/50541236) |
-| K - Three Activities           | [Link to the solution](https://vjudge.net/solution/50561209) |
-| M - Compare T-Shirt Sizes      | [Link to the solution](https://vjudge.net/solution/50561683) |
+| Problem                                  | Solution                                                     |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| B - Counting                             | [Link to the solution](https://vjudge.net/solution/49862697) |
+| C - Buttons                              | [Link to the solution](https://vjudge.net/solution/49864748) |
+| D - Four Digits                          | [Link to the solution](https://vjudge.net/solution/49871311) |
+| G - Not Found                            | [Link to the solution](https://vjudge.net/solution/49886953) |
+| E - Find Multiple                        | [Link to the solution](https://vjudge.net/solution/49903992) |
+| M - Wet Shark and Odd and Even           | [Link to the solution](https://vjudge.net/solution/49935974) |
+| N - Forgotten Episode                    | [Link to the solution](https://vjudge.net/solution/49935943) |
+| H - How many?                            | [Link to the solution](https://vjudge.net/solution/49967693) |
+| F - Biscuit Generator                    | [Link to the solution](https://vjudge.net/solution/49993741) |
+| I - Multiple Gift                        | [Link to the solution](https://vjudge.net/solution/50049067) |
+| O - Traffic Light                        | [Link to the solution](https://vjudge.net/solution/50041167) |
+| L - Era                                  | [Link to the solution](https://vjudge.net/solution/50031377) |
+| K - Word Game                            | [Link to the solution](https://vjudge.net/solution/50030182) |
+| J - Ebony and Ivory                      | [Link to the solution](https://vjudge.net/solution/50031751) |
+| C - Remove It                            | [Link to the solution](https://vjudge.net/solution/50127789) |
+| D - Minor Change                         | [Link to the solution](https://vjudge.net/solution/50151999) |
+| E - Plus or Minus                        | [Link to the solution](https://vjudge.net/solution/50178389) |
+| C - Move Brackets                        | [Link to the solution](https://vjudge.net/solution/50179149) |
+| J - Colourblindness                      | [Link to the solution](https://vjudge.net/solution/50178773) |
+| N - Chemistry                            | [Link to the solution](https://vjudge.net/solution/50196150) |
+| B - Sum of Three Integers                | [Link to the solution](https://vjudge.net/solution/50202972) |
+| I - All Distinct                         | [Link to the solution](https://vjudge.net/solution/50215271) |
+| M - Kalindrome Array                     | [Link to the solution](https://vjudge.net/solution/50326564) |
+| L - Array Cloning Technique              | [Link to the solution](https://vjudge.net/solution/50319925) |
+| F - Cypher                               | [Link to the solution](https://vjudge.net/solution/50291151) |
+| A - Is It a Cat?                         | [Link to the solution](https://vjudge.net/solution/50320672) |
+| C - X-Sum                                | [Link to the solution](https://vjudge.net/solution/50446192) |
+| R - Remove Prefix                        | [Link to the solution](https://vjudge.net/solution/50447585) |
+| T - Alt-Tab                              | [Link to the solution](https://vjudge.net/solution/50467527) |
+| F - Line                                 | [Link to the solution](https://vjudge.net/solution/50496989) |
+| N - Long Long                            | [Link to the solution](https://vjudge.net/solution/50506196) |
+| L - Train and Queries                    | [Link to the solution](https://vjudge.net/solution/50539311) |
+| D - Double Strings                       | [Link to the solution](https://vjudge.net/solution/50521847) |
+| O - Sum in Binary Tree                   | [Link to the solution](https://vjudge.net/solution/50519200) |
+| Q - Mainak and Array                     | [Link to the solution](https://vjudge.net/solution/50541236) |
+| K - Three Activities                     | [Link to the solution](https://vjudge.net/solution/50561209) |
+| M - Compare T-Shirt Sizes                | [Link to the solution](https://vjudge.net/solution/50561683) |
+| I - Powering the Hero (hard version).cpp | [Link to the solution](https://vjudge.net/solution/50618248) |
+| H - Powering the Hero (easy version).cpp | [Link to the solution](https://vjudge.net/solution/50618345) |
 
 ## Atcoder
 

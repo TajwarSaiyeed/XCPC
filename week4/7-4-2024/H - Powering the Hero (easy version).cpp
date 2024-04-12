@@ -1,6 +1,7 @@
 /*
     Author: Tajwar Saiyeed
     Date: 2024-04-07 23:08:11
+    File : H - Powering the Hero (easy version).cpp
 */
 #include <bits/stdc++.h>
 using namespace std;
@@ -19,7 +20,38 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        ll n, ans = 0;
+        cin >> n;
+        vll a;
+        priority_queue<ll> pq;
+        fr(i, 0, n)
+        {
+            ll x;
+            cin >> x;
+            a.push_back(x);
+        }
+
+        fr(i, 0, n)
+        {
+            if (a[i] != 0)
+            {
+                pq.push(a[i]);
+            }
+            else if (!pq.empty())
+            {
+                ans += pq.top();
+                pq.pop();
+            }
+        }
+        cout << ans << '\n';
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1800/C1
+// Submission : https://vjudge.net/solution/50618345
