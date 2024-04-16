@@ -50,6 +50,8 @@ This repository contains my solutions to various competitive programming problem
 | A. Compare T-Shirt Sizes             | [Link to the question](https://codeforces.com/contest/1741/problem/A)                                    |
 | C1. Powering the Hero (easy version) | [Link to the question](https://codeforces.com/problemset/problem/1800/C1)                                |
 | C2. Powering the Hero (hard version) | [Link to the question](https://codeforces.com/problemset/problem/1800/C2)                                |
+| B. Rock and Lever                    | [Link to the question](https://codeforces.com/problemset/problem/1420/B)                                 |
+| B. Fedor and New Game                | [Link to the question](https://codeforces.com/problemset/problem/467/B)                                  |
 
 ## Codechef
 
@@ -58,6 +60,7 @@ This repository contains my solutions to various competitive programming problem
 | Alt-Tab        | [Link to the question](https://www.codechef.com/problems/ALTTAB)  |
 | OR Permutation | [Link to the question](https://www.codechef.com/problems/PERMOR)  |
 | Minimum XOR    | [Link to the question](https://www.codechef.com/problems/MINMXOR) |
+| NASA           | [Link to the question](https://www.codechef.com/problems/PALIXOR) |
 
 ## VJudge
 
@@ -104,6 +107,9 @@ This repository contains my solutions to various competitive programming problem
 | H - Powering the Hero (easy version).cpp | [Link to the solution](https://vjudge.net/solution/50618345) |
 | B - OR Permutation                       | [Link to the solution](https://vjudge.net/solution/50680953) |
 | A - Minimum XOR                          | [Link to the solution](https://vjudge.net/solution/50684206) |
+| T - Fedor and New Game                   | [Link to the solution](https://vjudge.net/solution/50686792) |
+| M - NASA                                 | [Link to the solution](https://vjudge.net/solution/50686905) |
+| F - Rock and Lever                       | [Link to the solution](https://vjudge.net/solution/50686926) |
 
 ## Atcoder
 
