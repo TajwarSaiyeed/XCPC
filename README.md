@@ -53,9 +53,11 @@ This repository contains my solutions to various competitive programming problem
 
 ## Codechef
 
-| Problem | Solution                                                         |
-| ------- | ---------------------------------------------------------------- |
-| Alt-Tab | [Link to the question](https://www.codechef.com/problems/ALTTAB) |
+| Problem        | Solution                                                          |
+| -------------- | ----------------------------------------------------------------- |
+| Alt-Tab        | [Link to the question](https://www.codechef.com/problems/ALTTAB)  |
+| OR Permutation | [Link to the question](https://www.codechef.com/problems/PERMOR)  |
+| Minimum XOR    | [Link to the question](https://www.codechef.com/problems/MINMXOR) |
 
 ## VJudge
 
@@ -100,6 +102,8 @@ This repository contains my solutions to various competitive programming problem
 | M - Compare T-Shirt Sizes                | [Link to the solution](https://vjudge.net/solution/50561683) |
 | I - Powering the Hero (hard version).cpp | [Link to the solution](https://vjudge.net/solution/50618248) |
 | H - Powering the Hero (easy version).cpp | [Link to the solution](https://vjudge.net/solution/50618345) |
+| B - OR Permutation                       | [Link to the solution](https://vjudge.net/solution/50680953) |
+| A - Minimum XOR                          | [Link to the solution](https://vjudge.net/solution/50684206) |
 
 ## Atcoder
 

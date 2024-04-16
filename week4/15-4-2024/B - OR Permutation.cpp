@@ -24,5 +24,21 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+
+        ll n;
+        cin >> n;
+        nfr(i, n, 0)
+        {
+            cout << i << ' ';
+        }
+        nl;
+    }
     return 0;
 }
+
+// Problem : https://www.codechef.com/problems/PERMOR
+// Submission : https://vjudge.net/solution/50680953
