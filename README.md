@@ -61,6 +61,7 @@ This repository contains my solutions to various competitive programming problem
 | OR Permutation | [Link to the question](https://www.codechef.com/problems/PERMOR)  |
 | Minimum XOR    | [Link to the question](https://www.codechef.com/problems/MINMXOR) |
 | NASA           | [Link to the question](https://www.codechef.com/problems/PALIXOR) |
+| Dull Operation | [Link to the question](https://www.codechef.com/problems/DUPLET)  |
 
 ## VJudge
 
@@ -110,6 +111,7 @@ This repository contains my solutions to various competitive programming problem
 | T - Fedor and New Game                   | [Link to the solution](https://vjudge.net/solution/50686792) |
 | M - NASA                                 | [Link to the solution](https://vjudge.net/solution/50686905) |
 | F - Rock and Lever                       | [Link to the solution](https://vjudge.net/solution/50686926) |
+| N - Dull Operation                       | [Link to the solution](https://vjudge.net/solution/50736830) |
 
 ## Atcoder
 
