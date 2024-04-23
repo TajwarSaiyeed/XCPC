@@ -53,6 +53,7 @@ This repository contains my solutions to various competitive programming problem
 | B. Rock and Lever                    | [Link to the question](https://codeforces.com/problemset/problem/1420/B)                                 |
 | B. Fedor and New Game                | [Link to the question](https://codeforces.com/problemset/problem/467/B)                                  |
 | C. Premutation                       | [Link to the question](https://codeforces.com/problemset/problem/1790/C)                                 |
+| C. Ski Resort                        | [Link to the question](https://codeforces.com/problemset/problem/1840/C)                                 |
 
 ## Codechef
 
@@ -114,6 +115,7 @@ This repository contains my solutions to various competitive programming problem
 | F - Rock and Lever                       | [Link to the solution](https://vjudge.net/solution/50686926) |
 | N - Dull Operation                       | [Link to the solution](https://vjudge.net/solution/50736830) |
 | E - Premutation                          | [Link to the solution](https://vjudge.net/solution/50834926) |
+| J - Ski Resort                           | [Link to the solution](https://vjudge.net/solution/50794964) |
 
 ## Atcoder
 
