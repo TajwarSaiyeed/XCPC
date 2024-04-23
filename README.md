@@ -52,6 +52,7 @@ This repository contains my solutions to various competitive programming problem
 | C2. Powering the Hero (hard version) | [Link to the question](https://codeforces.com/problemset/problem/1800/C2)                                |
 | B. Rock and Lever                    | [Link to the question](https://codeforces.com/problemset/problem/1420/B)                                 |
 | B. Fedor and New Game                | [Link to the question](https://codeforces.com/problemset/problem/467/B)                                  |
+| C. Premutation                       | [Link to the question](https://codeforces.com/problemset/problem/1790/C)                                 |
 
 ## Codechef
 
@@ -112,6 +113,7 @@ This repository contains my solutions to various competitive programming problem
 | M - NASA                                 | [Link to the solution](https://vjudge.net/solution/50686905) |
 | F - Rock and Lever                       | [Link to the solution](https://vjudge.net/solution/50686926) |
 | N - Dull Operation                       | [Link to the solution](https://vjudge.net/solution/50736830) |
+| E - Premutation                          | [Link to the solution](https://vjudge.net/solution/50834926) |
 
 ## Atcoder
 
