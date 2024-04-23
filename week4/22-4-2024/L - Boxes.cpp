@@ -15,8 +15,10 @@ using namespace std;
 #define vs vector<string>
 #define fr(i, ivalue, n) for (int i = ivalue; i < n; i++)
 #define nfr(i, ivalue, n) for (int i = ivalue; i > n; i--)
+#define srt(vll) sort(a.begin(), a.end())
 #define srtG(vll) sort(a.begin(), a.end(), greater<ll>())
 #define mps map<string, int>
+#define prq priority_queue<ll>
 typedef long long ll;
 
 int main()
@@ -24,7 +26,37 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        ll n;
+        cin >> n;
+        vll a(n);
+        fr(i, 0, n) cin >> a[i];
+        srt(a);
+
+        prq pq;
+        pq.push(a[n - 1]);
+
+        nfr(i, n - 2, -1)
+        {
+            if (pq.top() < a[i])
+                pq.push(a[i]);
+            else
+            {
+                ll x = pq.top() ^ a[i];
+                pq.pop();
+                pq.push(x);
+            }
+        }
+
+        cout << pq.size() << '\n';
+    }
+
     return 0;
 }
 
 // Problem : https://www.codechef.com/problems/BOX95
+// Submission : https://vjudge.net/solution/50846802
