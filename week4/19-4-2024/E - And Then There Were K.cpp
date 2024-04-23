@@ -23,8 +23,19 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
+    ll tc;
+    cin >> tc;
+    while (tc--)
+    {
+        ll n, mx = 1;
+        cin >> n;
+        while (mx <= n)
+            mx *= 2;
+        cout << mx / 2 - 1 << '\n';
+    }
 
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1527/A
+// Solution : https://vjudge.net/solution/50850530
