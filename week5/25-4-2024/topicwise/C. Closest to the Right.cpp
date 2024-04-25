@@ -24,5 +24,36 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int n, k;
+    cin >> n >> k;
+
+    vi a(n);
+    fr(i, 0, n) cin >> a[i];
+
+    while (k--)
+    {
+        int key;
+        cin >> key;
+        int l = 0, r = n - 1, mid, ans = n;
+        while (l <= r)
+        {
+            mid = (l + r) / 2;
+
+            if (key <= a[mid])
+            {
+                ans = mid;
+                r = mid - 1;
+            }
+            else
+            {
+                l = mid + 1;
+            }
+        }
+
+        cout << ans + 1 << '\n';
+    }
+
     return 0;
 }
+
+// Problem : https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C
