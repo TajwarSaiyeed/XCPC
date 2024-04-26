@@ -54,6 +54,9 @@ This repository contains my solutions to various competitive programming problem
 | B. Fedor and New Game                | [Link to the question](https://codeforces.com/problemset/problem/467/B)                                  |
 | C. Premutation                       | [Link to the question](https://codeforces.com/problemset/problem/1790/C)                                 |
 | C. Ski Resort                        | [Link to the question](https://codeforces.com/problemset/problem/1840/C)                                 |
+| A. Binary Search                     | [Link to the question](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A) |
+| B. Closest to the Left               | [Link to the question](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) |
+| C. Closest to the Right              | [Link to the question](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) |
 
 ## Codechef
 
