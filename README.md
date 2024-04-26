@@ -57,6 +57,7 @@ This repository contains my solutions to various competitive programming problem
 | A. Binary Search                     | [Link to the question](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A) |
 | B. Closest to the Left               | [Link to the question](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) |
 | C. Closest to the Right              | [Link to the question](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) |
+| C. Jumping on Tiles                  | [Link to the question](https://codeforces.com/problemset/problem/1729/C)                                 |
 
 ## Codechef
 
@@ -119,6 +120,7 @@ This repository contains my solutions to various competitive programming problem
 | N - Dull Operation                       | [Link to the solution](https://vjudge.net/solution/50736830) |
 | E - Premutation                          | [Link to the solution](https://vjudge.net/solution/50834926) |
 | J - Ski Resort                           | [Link to the solution](https://vjudge.net/solution/50794964) |
+| B - Jumping on Tiles                     | [Link to the solution](https://vjudge.net/solution/50911707) |
 
 ## Atcoder
 
