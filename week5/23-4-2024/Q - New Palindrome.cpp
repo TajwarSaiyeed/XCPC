@@ -24,7 +24,46 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        string s;
+        cin >> s;
+
+        int n = s.size();
+
+        int cnt = 0;
+
+        if (n % 2 == 0 && n > 2)
+        {
+            fr(i, 1, n / 2)
+            {
+                if (s[i] != s[i - 1])
+                {
+                    cnt++;
+                }
+            }
+        }
+        else if (n % 2 == 1 && n > 3)
+        {
+            fr(i, 1, n / 2)
+            {
+                if (s[i] != s[i - 1])
+                {
+                    cnt++;
+                }
+            }
+        }
+
+        if (cnt)
+            yes;
+        else
+            no;
+    }
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1832/A
+// Solution : https://vjudge.net/solution/50937913
