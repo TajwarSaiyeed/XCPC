@@ -24,5 +24,39 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int n, k;
+    cin >> n >> k;
+    vi a(n);
+    fr(i, 0, n) cin >> a[i];
+
+    sort(a.begin(), a.end());
+
+    auto ok = [&](ll mid)
+    {
+        ll cnt = 0;
+        fr(i, n / 2, n)
+            cnt += (a[i] < mid ? (mid - a[i]) : 0);
+        return cnt <= k;
+    };
+
+    ll l = 1, r = 2e9, mid, ans = 0;
+    while (l <= r)
+    {
+        mid = l + (r - l) / 2;
+        if (ok(mid))
+        {
+            ans = mid;
+            l = mid + 1;
+        }
+        else
+        {
+            r = mid - 1;
+        }
+    }
+    cout << ans << '\n';
+
     return 0;
 }
+
+// Problem : https://codeforces.com/problemset/problem/1201/C
+// Solution : https://vjudge.net/solution/50978157
