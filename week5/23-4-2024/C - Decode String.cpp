@@ -24,7 +24,35 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        string s, answer = "";
+        cin >> s;
+
+        fr(i, 0, n)
+        {
+            if (i + 2 < n && s[i + 2] == '0' && (i + 3 >= n || s[i + 3] != '0'))
+            {
+
+                answer.push_back((char)(96 + (((s[i] - '0') * 10) + (s[i + 1] - '0'))));
+                i += 2;
+            }
+            else
+            {
+                int num = (s[i] - '0');
+                answer.push_back((char)(96 + num));
+            }
+        }
+
+        cout << answer << "\n";
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1729/B
+// Submission : https://vjudge.net/solution/50987353
