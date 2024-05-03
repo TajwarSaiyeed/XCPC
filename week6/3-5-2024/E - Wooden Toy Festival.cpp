@@ -21,10 +21,61 @@ using namespace std;
 #define dt(n) fixed << setprecision(n)
 typedef long long ll;
 
+void testCase()
+{
+    ll n;
+    cin >> n;
+    vll a(n);
+    fr(i, 0, n) cin >> a[i];
+    srt(a);
+    ll l = 0, r = 1e18, ans;
+    while (l <= r)
+    {
+        ll mid = l + (r - l) / 2;
+        ll cnt = 1;
+        for (int x = n - 1, y = n - 2; y >= 0;)
+        {
+            if (a[x] - mid - mid <= a[y])
+                y--;
+            else
+            {
+                cnt++;
+                x = y;
+                y = x - 1;
+            }
+        }
+        if (cnt < 4)
+        {
+            ans = mid;
+            r = mid - 1;
+        }
+        else
+            l = mid + 1;
+
+        if (cnt < 4)
+        {
+            ans = mid;
+            r = mid - 1;
+        }
+        else
+            l = mid + 1;
+    }
+
+    cout << ans << nl;
+}
+
 int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+        testCase();
+
     return 0;
 }
+
+// Problem : https://codeforces.com/problemset/problem/1840/D
+// Submission : https://vjudge.net/solution/51081892
