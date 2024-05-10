@@ -52,3 +52,6 @@ int main()
 
     return 0;
 }
+
+// Problem : https://codeforces.com/contest/1971/problem/C
+// Submission : https://codeforces.com/contest/1971/submission/260346684

@@ -55,3 +55,6 @@ int main()
 
     return 0;
 }
+
+// Problem : https://codeforces.com/contest/1971/problem/B
+// Submission : https://codeforces.com/contest/1971/submission/260331537
