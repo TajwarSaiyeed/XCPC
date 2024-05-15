@@ -24,7 +24,23 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        ll n, k = 0;
+        cin >> n;
+
+        while ((1 << (k + 1)) <= n - 1)
+            k++;
+
+        nfr(i, (1 << k) - 1, -1) cout << i << " ";
+        fr(j, (1 << k), n) cout << j << " ";
+        cout << "\n";
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1632/B
+// Submission : https://vjudge.net/solution/51267348

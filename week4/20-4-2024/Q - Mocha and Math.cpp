@@ -19,12 +19,29 @@ using namespace std;
 #define mps map<string, int>
 typedef long long ll;
 
+const int N = 1e2 + 10;
+
 int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        vll a(N);
+        fr(i, 0, n) cin >> a[i];
+        ll ans = a[0];
+        fr(i, 1, n) ans &= a[i];
+        cout << ans << "\n";
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1559/A
+// Submission : https://vjudge.net/solution/51267025
