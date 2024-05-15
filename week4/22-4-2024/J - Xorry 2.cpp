@@ -24,7 +24,35 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        ll x, cnt = 0, s = 0, y, ans;
+        cin >> x;
+
+        while (x)
+        {
+            if ((x & 1) == 0)
+            {
+                cnt++;
+                s++;
+            }
+            else if ((x & 1) == 1)
+            {
+                y = s;
+                s = 0;
+            }
+            x >>= 1;
+        }
+
+        ans = pow(2, cnt - y);
+        cout << ans << '\n';
+    }
+
     return 0;
 }
 
 // Problem : https://www.codechef.com/problems/XORRY2
+// Submission : https://vjudge.net/solution/51267649
