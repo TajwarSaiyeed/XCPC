@@ -26,5 +26,24 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    ll n;
+    cin >> n;
+    vll a(n);
+    fr(i, 0, n) cin >> a[i];
+    map<ll, ll> cnt;
+    ll ans = -1e18, r = 0;
+    fr(l, 0, n)
+    {
+        while (cnt[a[r]] == 0 && r < n)
+        {
+            cnt[a[r]]++;
+            ans = max(ans, r - l + 1);
+            r++;
+        }
+        cnt[a[l]]--;
+    }
+    cout << ans << '\n';
     return 0;
 }
+
+// Problem : https://cses.fi/problemset/task/1141/
