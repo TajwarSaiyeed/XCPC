@@ -26,7 +26,12 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int n;
+    cin >> n;
+    fr(i, 0, n) if (i % 4 == 0 || i % 4 == 1) cout << "a";
+    else cout << "b";
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/805/B
+// Submission: https://vjudge.net/solution/51467473

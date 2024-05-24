@@ -15,6 +15,7 @@ using namespace std;
 #define vs vector<string>
 #define fr(i, ivalue, n) for (int i = ivalue; i < n; i++)
 #define nfr(i, ivalue, n) for (int i = ivalue; i > n; i--)
+#define srtx(x, n) sort(x, x + n)
 #define srt(vll) sort(a.begin(), a.end())
 #define srtG(vll) sort(a.begin(), a.end(), greater<ll>())
 #define mps map<string, int>
@@ -26,7 +27,32 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        int a[n + 3], b[n + 3];
+        fr(i, 0, n) cin >> a[i];
+        fr(i, 0, n) cin >> b[i];
+        srtx(a, n), srtx(b, n);
+        int ans = 0;
+        nfr(i, n - 1, -1) if (a[i] > b[i] || b[i] - a[i] > 1)
+        {
+            ans = 1;
+            break;
+        }
+
+        if (ans == 0)
+            yes;
+        else
+            no;
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1589/C
+// Submisson : https://vjudge.net/solution/51460862
