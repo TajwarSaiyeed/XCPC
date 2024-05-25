@@ -26,6 +26,28 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    ll n, k;
+    cin >> n >> k;
+
+    vll v;
+
+    for (ll i = 1; i * i <= n; i++)
+    {
+        if (n % i == 0)
+        {
+            v.push_back(i);
+            if (i != (n / i))
+                v.push_back(n / i);
+        }
+    }
+
+    srt(v);
+
+    if (k > v.size())
+        cout << -1 << nl;
+    else
+        cout << v[k - 1] << nl;
+
     return 0;
 }
 
