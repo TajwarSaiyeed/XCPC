@@ -21,10 +21,55 @@ using namespace std;
 #define dt(n) fixed << setprecision(n)
 typedef long long ll;
 
+map<ll, ll> mp;
+void prime(int n)
+{
+    fr(i, 2, sqrt(n) + 1)
+    {
+        while (n % i == 0)
+        {
+            mp[i]++;
+            n /= i;
+        }
+    }
+    if (n > 1)
+        mp[n]++;
+}
+
 int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        vll v(n);
+        mp.clear();
+        fr(i, 0, n)
+        {
+            cin >> v[i];
+            prime(v[i]);
+        }
+
+        bool flag = true;
+        for (auto x : mp)
+        {
+            if (x.second % n != 0)
+            {
+                flag = false;
+                break;
+            }
+        }
+
+        cout << (flag ? "YES" : "NO") << nl;
+    }
+
     return 0;
 }
+
+// Problem : https://codeforces.com/problemset/problem/1881/D
+// Submission : https://vjudge.net/solution/51491718
