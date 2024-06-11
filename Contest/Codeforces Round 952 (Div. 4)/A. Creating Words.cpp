@@ -1,7 +1,7 @@
 /*
     Author: Tajwar Saiyeed
-    Date: 2024-06-10 21:46:33
-    File: D - Districts Connection.cpp
+    Date: 2024-06-11 20:54:12
+    File: A. Creating Words.cpp
 */
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
@@ -31,7 +31,17 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        string a, b;
+        cin >> a >> b;
+        swap(a[0], b[0]);
+        cout << a << " " << b << nl;
+    }
     return 0;
 }
 
-// Problem : https://codeforces.com/problemset/problem/1433/D
+// Problem : https://codeforces.com/contest/1985/problem/A

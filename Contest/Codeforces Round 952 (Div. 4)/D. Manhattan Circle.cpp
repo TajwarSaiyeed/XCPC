@@ -1,7 +1,7 @@
 /*
     Author: Tajwar Saiyeed
-    Date: 2024-06-10 21:46:33
-    File: D - Districts Connection.cpp
+    Date: 2024-06-11 21:49:56
+    File: D. Manhattan Circle.cpp
 */
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
@@ -31,7 +31,32 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        int n, m;
+        cin >> n >> m;
+        vs a(n);
+        fr(i, 0, n) cin >> a[i];
+        ll x = 0, y = 0, cnt = 0;
+        fr(i, 0, n) fr(j, 0, m)
+        {
+            if (a[i][j] == '#')
+            {
+                x += i;
+                y += j;
+                cnt++;
+            }
+        }
+
+        int x_cordinate = x / cnt, y_cordinate = y / cnt;
+
+        cout << x_cordinate + 1 << " " << y_cordinate + 1 << nl;
+    }
+
     return 0;
 }
 
-// Problem : https://codeforces.com/problemset/problem/1433/D
+// Problem : https://codeforces.com/contest/1985/problem/D

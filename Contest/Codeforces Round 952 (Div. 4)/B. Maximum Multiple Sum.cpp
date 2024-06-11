@@ -1,7 +1,7 @@
 /*
     Author: Tajwar Saiyeed
-    Date: 2024-06-10 21:46:33
-    File: D - Districts Connection.cpp
+    Date: 2024-06-11 21:26:20
+    File: B. Maximum Multiple Sum.cpp
 */
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
@@ -31,7 +31,27 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+
+    while (tc--)
+    {
+        int n, mx = 0, x = 2;
+        cin >> n;
+
+        fr(i, 2, n + 1)
+        {
+            int k = n / i;
+            int sum = i * (k * (k + 1) / 2);
+            mx = max(mx, sum);
+            if (sum == mx)
+                x = i;
+        }
+
+        cout << x << nl;
+    }
+
     return 0;
 }
 
-// Problem : https://codeforces.com/problemset/problem/1433/D
+// Problem : https://codeforces.com/contest/1985/problem/B
