@@ -60,3 +60,4 @@ int main()
 }
 
 // Problem : https://codeforces.com/problemset/problem/1506/D
+// SUbmission : https://vjudge.net/solution/51913716
