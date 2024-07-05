@@ -31,7 +31,32 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        vi a(n);
+        fr(i, 0, n) cin >> a[i];
+        for (int i = 0; i < n; i++)
+        {
+            a[i] -= i;
+        }
+
+        map<int, int> mp;
+        ll ans = 0;
+        for (int i = 0; i < n; i++)
+        {
+            ans += mp[a[i]];
+            mp[a[i]]++;
+        }
+
+        cout << ans << nl;
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1520/D
+// Submission : https://vjudge.net/solution/52325351

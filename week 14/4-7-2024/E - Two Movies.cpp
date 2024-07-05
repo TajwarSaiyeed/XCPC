@@ -31,7 +31,41 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        vi a(n), b(n);
+        fr(i, 0, n) cin >> a[i];
+        fr(i, 0, n) cin >> b[i];
+        ll vala = 0, valb = 0;
+
+        fr(i, 0, n) if (a[i] != b[i]) if (a[i] > b[i]) vala += a[i];
+        else valb += b[i];
+
+        fr(i, 0, n)
+        {
+            if (a[i] != b[i])
+                continue;
+
+            if (a[i] == -1)
+                if (vala > valb)
+                    vala += a[i];
+                else
+                    valb += b[i];
+            else if (vala > valb)
+                valb += b[i];
+            else
+                vala += a[i];
+        }
+
+        cout << min(vala, valb) << nl;
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1989/C
+// Solution : https://vjudge.net/solution/52334489
