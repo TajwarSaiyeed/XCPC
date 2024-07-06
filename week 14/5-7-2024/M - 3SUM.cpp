@@ -31,7 +31,39 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        vi freq(10, 0);
+        fr(i, 0, n)
+        {
+            int x;
+            cin >> x;
+            freq[x % 10]++;
+        }
+
+        bool found = false;
+        fr(i, 0, 10 && !found)
+            fr(j, i, 10 && !found)
+                fr(k, j, 10 && !found) if ((i + j + k) % 10 == 3)
+        {
+            int need_i = i == j ? 2 : 1;
+            int need_j = j == k ? need_i + 1 : need_i;
+            if (freq[i] >= 1 && freq[j] >= (i == j ? 2 : 1) && freq[k] >= (k == j ? need_j : 1))
+                found = true;
+        }
+
+        if (found)
+            yes;
+        else
+            no;
+    }
+
     return 0;
 }
 
-// Problem : https://codeforces.com/problemset/problem/1692/F
+// Problem : https://codeforces.com/contest/1692/problem/F
+// Solution : https://vjudge.net/solution/52361845
