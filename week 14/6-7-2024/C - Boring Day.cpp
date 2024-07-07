@@ -31,7 +31,46 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int tc;
+    cin >> tc;
+    while (tc--)
+    {
+        int n;
+        cin >> n;
+        ll l, r;
+        cin >> l >> r;
+        vll a(n);
+        fr(i, 0, n) cin >> a[i];
+        ll ans = 0;
+        ll i = 0, j = 0, sum = 0;
+        while (i < n)
+        {
+            if (a[i] > r)
+            {
+                sum = 0;
+                j = i + 1;
+                i++;
+                continue;
+            }
+            sum += a[i];
+            while (sum > r)
+            {
+                sum -= a[j];
+                j++;
+            }
+            if (sum >= l && sum <= r)
+            {
+                ans++;
+                sum = 0;
+                j = i + 1;
+            }
+            i++;
+        }
+        cout << ans << nl;
+    }
+
     return 0;
 }
 
 // Problem : https://codeforces.com/problemset/problem/1982/C
+// Submission : https://vjudge.net/solution/52374057
