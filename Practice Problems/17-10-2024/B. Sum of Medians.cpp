@@ -33,13 +33,23 @@ void solve()
     vll a(n * k);
     fr(i, 0, n * k) cin >> a[i];
 
-    ll mid = n / 2;
-    // cout << mid << nl;
+    // ll mid = n / 2;
+    // // cout << mid << nl;
+    // ll sum = 0;
+    // ll x = n * k;
+    // for (ll i = x - 1 - mid, j = 0; i >= 0 && j < k; j++, i -= mid + 1)
+    // {
+    //     sum += a[i];
+    // }
+
     ll sum = 0;
-    ll x = n * k;
-    for (ll i = x - 1 - mid, j = 0; i >= 0 && j < k; j++, i -= mid + 1)
+    ll step = n / 2 + 1;
+    ll index = n * k - step;
+
+    for (int i = 0; i < k; i++)
     {
-        sum += a[i];
+        sum += a[index];
+        index -= step;
     }
 
     cout << sum << nl;
