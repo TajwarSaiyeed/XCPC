@@ -28,60 +28,6 @@ typedef long long ll;
 
 void solve()
 {
-    int h, n;
-    cin >> h >> n;
-    vi a(n), c(n);
-    fr(i, 0, n)
-    {
-        cin >> a[i];
-    }
-    fr(i, 0, n)
-    {
-        cin >> c[i];
-    }
-    ll ans = 0;
-    fr(i, 0, n)
-    {
-        if (h <= 0)
-        {
-            break;
-        }
-        if (a[i] >= h)
-        {
-            ans++;
-            break;
-        }
-        if (i + 1 < n && a[i + 1] >= h)
-        {
-            ans++;
-            break;
-        }
-        if (a[i] > a[i + 1])
-        {
-            if (c[i] > 1)
-            {
-                ans++;
-                h -= a[i];
-            }
-            else
-            {
-                h -= a[i];
-            }
-        }
-        else
-        {
-            if (c[i] > 1)
-            {
-                ans++;
-                h -= a[i];
-            }
-            else
-            {
-                h -= a[i];
-            }
-        }
-    }
-    cout << ans << nl;
 }
 
 int main()
